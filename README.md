@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+The+Cyber+Defense+Archive;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+The+Cyber+Defense+Archive...;)](https://git.io/typing-svg)
 
 
 
@@ -49,4 +49,10 @@
 </a>
 
 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+My+Profile.....;Let's+Secure+The+Digital+World+Together!!)](https://git.io/typing-svg)
+
+![Python](https://img.shields.io/badge/Code-Python-blue)
+![Linux](https://img.shields.io/badge/Platform-Linux-brightgreen)
 
