@@ -1,13 +1,10 @@
 # Ishan-Gupta-
 
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+The+Cyber+Defense+Archive...;)](https://git.io/typing-svg)
 
 
-
-
-🛡️ About Me :
+ ## 🛡️ About Me :
 
 🚀 I’m currently learning - Network Security, Vulnerability Assessments, and Digital Forensics.
 
@@ -25,7 +22,7 @@
 
 
 
-🌐 Socials:
+## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/ishan-gupta-171b89250/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -33,14 +30,12 @@
 
 
 
-📔 TryHackMe:
+## 📔 TryHackMe:
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/hunter21.png" alt="TryHackMe">
 
 
-
-
-☕ Support Me Here:
+## ☕ Support Me Here:
 
 <a href="https://www.buymeacoffee.com/ishan21" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
@@ -50,9 +45,5 @@
 
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+My+Profile.....;Let's+Secure+The+Digital+World+Together!!)](https://git.io/typing-svg)
-
-![Python](https://img.shields.io/badge/Code-Python-blue)
-![Linux](https://img.shields.io/badge/Platform-Linux-brightgreen)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+My+Profile.....;Let's+Secure+The+Digital+World+Together!!)](https://git.io/typing-svg)
 
