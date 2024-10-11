@@ -6,17 +6,17 @@
 
  ## 🛡️ About Me :
 
-🚀 I’m currently learning - Network Security, Vulnerability Assessments, and Digital Forensics.
+  🚀 I’m currently learning - Network Security, Vulnerability Assessments, and Digital Forensics.
 
-🤝 I’m looking to collaborate on - Cybersecurity Projects, Hackathons, and CTF Challenges.
+  🤝 I’m looking to collaborate on - Cybersecurity Projects, Hackathons, and CTF Challenges.
 
-💻 Ask me about - Ethical Hacking, Linux, Network Security, and Forensics.
+  💻 Ask me about - Ethical Hacking, Linux, Network Security, and Forensics.
 
-🌐 Always exploring the latest in Cyber Defense and Offensive Security Techniques.
+  🌐 Always exploring the latest in Cyber Defense and Offensive Security Techniques.
 
-✍️ Currently sharing insights through Writeups Of Cyber Security.
+  ✍️ Currently sharing insights through Writeups Of Cyber Security.
 
-📫 How to reach me : guptaishan642@gmail.com
+  📫 How to reach me : guptaishan642@gmail.com
 
 
 
