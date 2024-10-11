@@ -1,4 +1,4 @@
-# Ishan-Gupta-
+# Ishan-Gupta
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+The+Cyber+Defense+Archive...;)](https://git.io/typing-svg)
