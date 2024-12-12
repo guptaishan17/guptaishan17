@@ -6,7 +6,7 @@
 
  ## 🛡️ About Me :
 
-  🚀 I’m currently learning - Network Security, Vulnerability Assessments, and Digital Forensics.
+  🚀 I’m currently learning - Network Security, Deep Learning Models for Cybersecurity, Vulnerability Assessments, and Digital Forensics.
 
   🤝 I’m looking to collaborate on - Cybersecurity Projects, Hackathons, and CTF Challenges.
 
