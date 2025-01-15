@@ -46,8 +46,9 @@
 
 
 ## 📔 TryHackMe:
-
+<a href="https://tryhackme.com/r/p/hunter21">
 <img src="https://tryhackme-badges.s3.amazonaws.com/hunter21.png" alt="TryHackMe">
+</a>
 
 
 ## ☕ Support Me Here:
