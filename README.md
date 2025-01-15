@@ -46,7 +46,7 @@
 
 
 ## 📔 TryHackMe:
-<a href="https://tryhackme.com/r/p/hunter21">
+<a href="https://tryhackme.com/r/p/hunter21" target="_blank">
 <img src="https://tryhackme-badges.s3.amazonaws.com/hunter21.png" alt="TryHackMe">
 </a>
 
