@@ -62,6 +62,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/your-github-username/count.svg)
 
+![Learning Progress](https://progress-bar.dev/50/?title=Learning%20Deep%20Learning%20Models)
 
 
 
