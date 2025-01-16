@@ -63,6 +63,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true)
 
 
+
+![Background](https://example.com/your-background.gif)
+
+
+
+
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+My+Profile.....;Let's+Secure+The+Digital+World+Together!!)](https://git.io/typing-svg)
 
 
