@@ -60,10 +60,7 @@
 </a>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true)
-
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-github-username&bg_color=00FF00&color=0000FF&line=0000FF&point=00FF00&area=true&hide_border=true)
+![Visitor Count](https://profile-counter.glitch.me/your-github-username/count.svg)
 
 
 
