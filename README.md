@@ -64,8 +64,9 @@
 
 ![Learning Progress](https://progress-bar.dev/50/?title=Learning%20Deep%20Learning%20Models)
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg)
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+
+![Python](https://img.shields.io/badge/Skill-Python-blue?style=flat-square&logo=python&logoColor=white&labelColor=blue&color=green)
+
 
 
 
