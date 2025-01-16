@@ -60,14 +60,8 @@
 </a>
 
 
-![Visitor Count](https://profile-counter.glitch.me/your-github-username/count.svg)
-
-![Learning Progress](https://progress-bar.dev/50/?title=Learning%20Deep%20Learning%20Models)
 
 
-![Timeline](https://example.com/timeline.gif)
-[![Project](https://img.shields.io/badge/Project%20Title-Active-blue)](https://github.com/your-project-link)
-![Cybersecurity GIF](https://media.giphy.com/media/VgwoYrk5yHzGfxbUbM/giphy.gif)
 
 
 
