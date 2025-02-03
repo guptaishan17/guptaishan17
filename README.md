@@ -63,6 +63,8 @@
 
 
 
+## 🧠 Favorite Quote
+"Security is always excessive until it’s not enough." – Robbie Sinclair
 
 
 
